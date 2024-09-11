@@ -15,7 +15,7 @@ Este repositorio proporciona un `Dockerfile` y scripts para crear un entorno bas
 1. **Clonar el Repositorio y Cambiar a la Rama `deepstream-7-python-dev`**:
 
     ```bash
-    git clone https://github.com/cesarcherre848/deepstream-docker.git
+    git clone https://github.com/cesarcherre848/deepstream-images.git
     cd deepstream-docker
     git checkout deepstream-7-python-dev
     ```
